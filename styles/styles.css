@@ -1,0 +1,301 @@
+* {
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+    
+
+
+}
+
+
+.button-primary {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 0px;
+    padding: 25px;
+    margin-top: 32px;
+    float: right;
+    width: 160px;
+
+
+
+}
+
+/* Header */
+
+header {
+    background-image: url('../images/banner/banner3.png');
+    background-size: cover;
+    padding: 216px 350px 0px 0px;
+    text-align: right;
+    height: 808px;
+
+}
+
+.h-title {
+
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+
+}
+
+.h-subtitle {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-top: 50px;
+
+}
+
+/* Body */
+
+.p-fig {
+    width: 569px;
+   
+
+}
+
+.f-container {
+    display: flex;
+    padding-top: 200px;
+    gap: 87px;
+    margin: auto;
+    justify-content: center;
+
+
+}
+
+.m-failure {
+    margin-top: 239px;
+}
+
+.f-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+
+}
+
+.f-details {
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+
+.li-icon {
+    height: 24px;
+    width: 24px;
+}
+
+li {
+    list-style-type: none;
+    line-height: 26px;
+
+}
+
+ul {
+
+    padding-left: 0;
+}
+
+
+/* My Plan */
+
+section {
+    margin-top: 129px;
+
+
+}
+
+.section-title {
+    text-align: center;
+    margin: auto;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 50px;
+
+
+}
+
+.plan-container {
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 131px;
+
+
+
+}
+
+.plan-item {
+    width: 270px;
+
+}
+
+.plan-fig {
+    height: 92.96px;
+    width: 92.96px;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+
+}
+
+.plan-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+
+}
+
+.plan-details {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+
+
+}
+
+.blended {
+
+    margin: auto;
+    justify-content: center;
+   width: 1140px;
+    background-image: url('/images/watch.png'), url('/images/gradient1.png');
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    padding: 59px 0px 147px 64px;
+
+}
+
+.w-title {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #FFFFFF;
+}
+
+.call-btn {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 0px;
+    padding: 25px;
+    margin-top: 32px;
+
+    width: 160px;
+
+}
+
+/* Footer */
+footer {
+    display: flex;
+    justify-content: space-around;
+    background: #151414;
+    padding: 130px 230px 130px 230px;
+}
+
+.f-item {}
+
+.f-t1 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+
+}
+
+.f-t2 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+    margin-bottom: 31px;
+
+}
+
+.f-t3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+
+}
+
+.s-fig {
+    margin-right:17px;
+}
+
+input[type=text] {
+    background: #151414;
+    border: 2px solid #FFFFFF;
+    padding: 20px;
+    border-radius: 6px;
+    width: 325px;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+input[type=submit] {
+    background: #005FAC;
+    border-radius: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    border: 0px;
+   
+    padding: 15px;
+    margin-top: 16px;
+
+
+}
