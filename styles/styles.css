@@ -191,7 +191,7 @@ section {
     margin: auto;
     justify-content: center;
    width: 1140px;
-    background-image: url('/images/watch.png'), url('/images/gradient1.png');
+    background-image: url('http://iconpack.xtgem.com/watch.png'), url('http://iconpack.xtgem.com/gradient1.png');
     background-blend-mode: multiply;
     background-repeat: no-repeat;
     border-radius: 8px;
